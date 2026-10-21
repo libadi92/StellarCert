@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-117-frontend-is-pinned-to-eslint-8-which-is-end-of",
+    "fix/issue-118-puppeteer-is-declared-as-a-root-dependency-but",
+    "fix/issue-119-root-package-json-duplicates-backend-runtime",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-117-frontend-is-pinned-to-eslint-8-which-is-end-of": "main",
+    "fix/issue-118-puppeteer-is-declared-as-a-root-dependency-but": "main",
+    "fix/issue-119-root-package-json-duplicates-backend-runtime": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-117-frontend-is-pinned-to-eslint-8-which-is-end-of",
+    "fix/issue-118-puppeteer-is-declared-as-a-root-dependency-but",
+    "fix/issue-119-root-package-json-duplicates-backend-runtime",
+    "origin"
+  ]
+}
